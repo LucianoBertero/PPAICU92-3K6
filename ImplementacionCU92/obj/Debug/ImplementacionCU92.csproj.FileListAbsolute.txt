@@ -1,0 +1,16 @@
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.csprojAssemblyReference.cache
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.Presentacion.PantallaEscuela.resources
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.Presentacion.PantallaInicio.resources
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.Properties.Resources.resources
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.csproj.GenerateResource.cache
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.csproj.CoreCompileInputs.cache
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\ImplementacionCU92.exe.config
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\ImplementacionCU92.exe
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\ImplementacionCU92.pdb
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\EntityFramework.dll
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\EntityFramework.xml
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.csproj.CopyComplete
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.exe
+C:\Users\Lucian\Desktop\Sincronizado\DSI\IMPLEMENTACION CU92\ImplementacionCU92\ImplementacionCU92\obj\Debug\ImplementacionCU92.pdb
